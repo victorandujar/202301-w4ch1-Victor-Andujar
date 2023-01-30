@@ -1,11 +1,11 @@
-export const gentlemen = [
+export const gentlemens = [
   {
     id: 1,
     name: "Bertin Osborne",
     status: "Alive",
     profession: "Youtuber",
     twitter: "@osbourne",
-    picture: "bertin.jpg",
+    picture: "../../img/bertin.jpg",
     alternativeText: "Osbourne pointing at you",
     selected: true,
   },

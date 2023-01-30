@@ -1,3 +1,4 @@
+import Gentlemen from "./components/Gentlemen/Gentlemen";
 import InfoComponent from "./components/Info/Info";
 
 const app = () => {
@@ -9,7 +10,7 @@ const app = () => {
         </header>
         <InfoComponent number={5} />
         <main className="main">
-          <ul className="gentlemen"></ul>
+          <Gentlemen />
         </main>
       </div>
     </>
