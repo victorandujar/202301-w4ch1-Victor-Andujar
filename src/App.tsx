@@ -8,7 +8,7 @@ const app = () => {
         <header className="main-header">
           <h1 className="main-title">The pointning gentlemen</h1>
         </header>
-        <InfoComponent number={5} />
+        <InfoComponent number={3} />
         <main className="main">
           <Gentlemen />
         </main>
